@@ -8,7 +8,7 @@ OpenFPS was an open-source project I started in 2009. The goal of the project wa
 
 The project was never completely finished, but it had many features that could compare to modern game engines: A level editor, basic multiplayer, physics, scripting. This project was also one of my first experiences seriously using source control. We used Subversion on this project.
 
-The project was originally hosted on Google Code, now archived in this repository.
+The project was originally hosted on Google Code, now archived in this repository. The game build will not run without some major compatibility work, so this code is mostly preserved for posterity.
 
 ## Screenshots
 
